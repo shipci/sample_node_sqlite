@@ -39,4 +39,4 @@ after_script:
   
 notifications:
   email:
-    - buildsampletest@gmail.com
+    - vidyac.raghav@gmail.com
